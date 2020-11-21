@@ -23,5 +23,9 @@
     "karma": "^0.12.16",
     "karma-jasmine": "^0.1.5",
     "karma-phantomjs-launcher": "^0.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://glacial-falls-47173.herokuapp.com"
   }
 }
